@@ -11,9 +11,9 @@
 
   ![](Screenshot(261).png)
 
-3.  Ubah kodenya dan tambahkan tag <div> dengan id = card untuk membungkus kode di atas, sehingga keseluruhan kode pada file home.page.html menjadi seperti di bawah ini:
+3.  Ubah kodenya dan tambahkan tag 'div' dengan id = card untuk membungkus kode di atas, sehingga keseluruhan kode pada file home.page.html menjadi seperti di bawah ini:
 
-  !{}(Screenshot(263).png)
+  ![](Screenshot(263).png)
 
 4.  Selanjutnya masukkan kode di bawah ini ke file home.page.scss yang ada di direktori src/app/home/:
 
