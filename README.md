@@ -20,7 +20,7 @@
   </ion-card-content>
 </ion-card>
 
-3.  Tambahkan tag <div> dengan id = card untuk membungkus kode di atas, sehingga hasilnya seperti di bawah ini:
+3.  Ubah kodenya dan tambahkan tag <div> dengan id = card untuk membungkus kode di atas, sehingga hasilnya seperti di bawah ini:
 
 <div id='card'>
     <ion-card>
